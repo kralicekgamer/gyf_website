@@ -4,7 +4,7 @@ function copyUrl(url) {
 
 const gifPath = "https://gyf.kralyk.dev/gifs/";
 // const gifPath = "./gifs/";
-const gifCount = 176;
+const gifCount = 186;
 let gallery = "";
 
 for (let i = 1; i <= gifCount; i++) {
